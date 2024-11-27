@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+@keyframes slide {
+    from {
+        margin-top: 500px;}
+    to {
+        margin-top: 0px;
+    }
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 500px;
+    position: relative;
+}
