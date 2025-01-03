@@ -1,4 +1,15 @@
-# Foobar
+
+# TODO
+> Complete in any order
+1. Main Page
+2. Title Page
+3. Scroll down
+4. Cards linknig to projects
+
+
+   
+## Examples
+
 
 Foobar is a Python library for dealing with word pluralization.
 
